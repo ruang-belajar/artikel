@@ -6,6 +6,7 @@ Berikut adalah hal-hal utama yang bisa menjadi acuan ketika kita mempelajari bah
     - bagaimana menulis "struktur dasar" program? 
       - menuliskan program "kosong", atau program sederhana seperti "Hello World"
     - bagaimana menuliskan satu baris perintah? 
+    - bagaimana menuliskan komentar
 2. Input & output sederhana
     - Bagaimana membaca input dari user?
     - Bagaimana menampilkan output text?
